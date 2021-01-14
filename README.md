@@ -1,2 +1,2 @@
 # clearning
-第一次尝试
+C语言学习ing...
